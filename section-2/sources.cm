@@ -1,7 +1,12 @@
 Group is
   another_expression_example.sml
   case_expressions.sml
+  eachof_patterns.sml
   list_and_options_are_datatypes.sml
+  nested_patterns_more.sml
+  nested_patterns.sml
+  polymorphic_and_equality_types.sml
   polymorphic_datatypes.sml
+  type_inference.sml
   type_synonyms.sml
   useful_datatypes.sml
